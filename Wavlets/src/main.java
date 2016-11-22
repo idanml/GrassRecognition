@@ -23,7 +23,7 @@ public class main {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 
-		JFrame frame = new JFrame(); // git text
+		JFrame frame = new JFrame();
 		frame.getContentPane().setLayout(new FlowLayout());
 
 		
